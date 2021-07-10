@@ -38,7 +38,7 @@ cmake --build . --config Release
 The above step will take a while (up to 30 minutes on a standard laptop). 
 11. Copy all executable files to the base folder
 cd ..
-cp ./Release/*.mexw64 .
+cp ./build/Release/*.mexw64 .
 12. Also copy the required dependencies:
 cp C:\dev\gptoolbox\mex\external\libigl\external\gmp\lib\libgmp-10.dll .
 cp C:\dev\gptoolbox\mex\external\libigl\external\mpfr\lib\libmpfr-4.dll .

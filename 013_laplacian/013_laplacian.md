@@ -121,6 +121,11 @@ performing a small time-step of the heat equation:
 
 ![smoothing, using the Laplacian](assets/smoothinglaplacian.png)
 
+(Note that `noisy_function()` isn't an actual function, it's a placeholder
+for any source of noise you might encounter.
+The noisy function in the picture above was created by starting with a smooth
+function, and then adding random numbers to it.)
+
 
 ## Exercises
 

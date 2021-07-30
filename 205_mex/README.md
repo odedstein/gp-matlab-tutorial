@@ -4,4 +4,4 @@
 
 [writeup / notes](205_mex.md)
 
-[exercises](exercise/exercise_mex.md)
+[exercises](exercise)

@@ -16,6 +16,10 @@ The authors of this course are
 If you wish to contribute your own geometry processing in MATLAB tutorial that
 uses gptoolbox, feel free to create a pull request for this repository!
 
+The authors would like to thank Peter Rock, Leticia Mattos Da Silvia, Alberto
+Tono, Lily Kimble, Dorothy Najjuma Kamya and Rahul Arora for their help in
+designing this course.
+
 The tutorial is released under the Creative Commons CC BY-SA 4.0 license.
 See `LICENSE.txt` for more details.
 If you contribute anything to this project, your contributions will

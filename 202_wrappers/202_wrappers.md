@@ -4,6 +4,8 @@ Be it because they are particularly useful for a specific application or because
 
 ## Triangle
 
+*This wrapper is now deprecated in favour of the more stable and robust `triangulate.m` included in gptoolbox*
+
 [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) is a two-dimensional quality mesh generator and Delaunay triangulator designed by Jonathan Richard Shewchuk (UC Berkeley) as a command-line app. Despite its latest update dating from 2005, it is extremely useful and flexible for generating 2D triangle meshes.
 
 If triangle is properly [installed](https://dgptimbits.wordpress.com/2017/07/20/installing-the-triangle-package-for-gptoolbox/) in your machine, you can use it inside Matlab just by calling `gptoolbox`'s wrapper `triangle`. For example, let us create a polyline bounding a circle:
